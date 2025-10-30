@@ -4,3 +4,5 @@ train/
 valid/
 .qodo/
 runs/
+input_videos/
+output_videos/
