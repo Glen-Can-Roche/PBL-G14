@@ -6,3 +6,4 @@ valid/
 runs/
 input_videos/
 output_videos/
+best.pt
