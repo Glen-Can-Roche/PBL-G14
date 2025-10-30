@@ -1,0 +1,20 @@
+# Core Ultralytics YOLO package
+ultralytics
+
+# PyTorch stack (install will pick correct CUDA/CPU wheels based on your platform)
+torch
+torchvision
+torchaudio
+
+# Common scientific/utility libraries
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+tqdm
+psutil
+requests
+PyYAML
+pillow
+opencv-python

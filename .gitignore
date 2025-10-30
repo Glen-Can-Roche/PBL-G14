@@ -1,0 +1,6 @@
+venv/
+test/
+train/
+valid/
+.qodo/
+runs/
